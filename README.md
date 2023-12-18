@@ -16,4 +16,4 @@ Sveriges Radio:S API behöver ingen authentisering, så det behöver du inte bry
 
 #### Audio
 
-Kolla dokumentation [documentation](https://www.w3schools.com/tags/tag_audio.asp) for the `<audio>` tag. Formatet som streamas är mp3, så du behöver använda `<source>` med "type" "audio/mpeg".
+Kolla [dokumentation](https://www.w3schools.com/tags/tag_audio.asp) for the `<audio>` tag. Formatet som streamas är mp3, så du behöver använda `<source>` med "type="audio/mpeg".
